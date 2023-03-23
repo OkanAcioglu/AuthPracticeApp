@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_KEY = 'AIzaSyAyg1UxgUFx6bE4jvqOTPw8p2189mqboRQ'
+const API_KEY = 'asd'
 
 async function createUser(email, password) {
   const response = await axios.post(
